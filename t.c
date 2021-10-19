@@ -3,6 +3,6 @@
 
 int main(int argc, char const *argv[])
 {
-    s
+    ss
     return 0;
 }
