@@ -3,7 +3,7 @@
 
 int main(int argc, char const *argv[])
 {
-    ss
-    return 0;
+    sssasasas
+    return 0;2
 }
 sasasas
